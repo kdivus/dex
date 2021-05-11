@@ -1,1 +1,2 @@
-# DEX - building decentralized exchange using Solidity, Truffle, Open Zeppelin
+# DEX 
+Building decentralized exchange using Solidity, Truffle, Open Zeppelin
